@@ -2,8 +2,8 @@
 
 ### A simple, modern and readable HTML template for APIs documentations
 
-You can take a look with this [DEMO](https://floriannicolas.github.io/API-Documentation-HTML-Template/). \
-Or this other [One Content Column DEMO](https://floriannicolas.github.io/API-Documentation-HTML-Template/one-content-column). 
+You can take a look with this [DEMO](https://ahmet-sakar.github.io/api-docs/). \
+Or this other [One Content Column DEMO](https://ahmet-sakar.github.io/api-docs/one-content-column.html). 
 
 ## Changes
 
